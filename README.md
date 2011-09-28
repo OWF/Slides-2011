@@ -1,4 +1,3 @@
-
 ## Think
 
 ### Cloud
@@ -11,6 +10,10 @@
 - [Oludap case study](https://github.com/OWF/Slides-2011/raw/master/think/cloud/CLOUD-VittorioAmosZiparo-Algorithmica-oludap_owf.pdf) - Vittorio Amos Ziparo, Algorithmica
 
 ## Code
+
+## Misc
+
+- [L'Enquete JobFOSS](https://github.com/OWF/Slides-2011/raw/master/Think/JobFOSS/jobfoss.pdf) - Philippe Montarges, PLOSS.
 
 ### Java Track
 
