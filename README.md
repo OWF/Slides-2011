@@ -9,11 +9,11 @@
 - [Build to cloud using Open Source](https://github.com/OWF/Slides-2011/raw/master/think/cloud/CLOUD-JeanFrancoisCaenen-Capgemini-Build To Cloud using Open Source technologies.pdf) - Jean-Francois Caenen, CapGemini
 - [Oludap case study](https://github.com/OWF/Slides-2011/raw/master/think/cloud/CLOUD-VittorioAmosZiparo-Algorithmica-oludap_owf.pdf) - Vittorio Amos Ziparo, Algorithmica
 
-## Code
-
-## Misc
+### Job & FOSS
 
 - [L'Enquete JobFOSS](https://github.com/OWF/Slides-2011/raw/master/Think/JobFOSS/jobfoss.pdf) - Philippe Montarges, PLOSS.
+
+## Code
 
 ### Java Track
 
