@@ -1,4 +1,4 @@
-## Think
+# Think
 
 ### Cloud
 
@@ -24,6 +24,8 @@
 - [Opening Open Source the Jenkins Way](https://github.com/OWF/Slides-2011/raw/master/Code/Java/jenkins-Opening-Opensource.pdf) - Nicolas de Loof, CloudBees
 
 ### OSDC Track
+
+- [Jenkins - Serveur d'integration continue multi-langage et multi-plateforme](https://github.com/OWF/Slides-2011/raw/master/Code/OSDC/PZ_OSDC_ZENIKA_20110924.pdf) - Gregory Boissinot, Zenika
 
 ### PHP Track
 
